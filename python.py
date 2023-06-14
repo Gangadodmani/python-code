@@ -2,8 +2,8 @@ import time
 import boto3
 
 # AWS Credentials and Region
-aws_access_key_id = 'AKIATM3ZJ4VE4C7ZYLMJ'
-aws_secret_access_key = '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'
+aws_access_key_id = 'AWS_ACCESS_KEY_ID'
+aws_secret_access_key = 'AWS_SECRET_ACCESS_KEY'
 region_name = 'ap-south-1'
 
 # ASG Configuration
