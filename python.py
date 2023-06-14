@@ -87,3 +87,6 @@ def main():
         AutoScalingGroupName=asg_name,
         DesiredCapacity=desired_capacity
     )
+    
+if __name__ == '__main__':
+    main()
